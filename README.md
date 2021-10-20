@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @crmattson
+- Hi, I’m @crmattson
 I currently work for ADFG in Juneau as a Fishery Biologist I aging groundfish otoliths. 
-- 👀 I love learning new things in R! I am an avid hiker/runner. 
-- 🌱 I’m currently learning about using shiny apps
-- 💞️ 
+-I love learning new things in R! I am an avid hiker/runner. 
+- I’m currently learning about using shiny apps
+-
 - 📫 How to reach me: catherine.mattson@alaska.gov
 
 <!---
